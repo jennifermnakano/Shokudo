@@ -1,0 +1,54 @@
+.white{
+  color:white;
+  font-family: inherit;
+  font-size: 12px;
+}
+
+.navbar{
+  background-color: black;
+}
+
+.material-icons.attributes {
+  font-size: 15px;
+}
+
+.text-centered {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding-bottom:50px;
+  font-family: Nunito, Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.nav-link{
+  color: black;
+  font-family: Nunito, Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: normal;
+  margin-left:15px;
+  margin-right:15px;
+}
+
+.border{
+  font-weight: bolder;
+}
+
+.col{
+  font-family: Nunito, Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+}
